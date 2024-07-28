@@ -7,3 +7,9 @@ This is a repository for CLRT19's machine learning study journey. The purpose of
 ## Prerequisites
 
 ### [1. Probability](/Probability)
+### [2. Linear Algebra](/Linear_Algebra/)
+### [3. Analysis](/Analysis/)
+
+## Machine Learning
+
+
